@@ -66,14 +66,7 @@ Each stage includes timestamps for transparency.
 
 ---
 
-### 🔹 6. Weekly Excel Report (Admin)
-Admin receives:
-- Weekly Excel file containing all disconnection requests  
-- Auto-emailed to ADMIN_EMAIL (placeholder)
-
----
-
-### 🔹 7. Multi-Language Support
+### 🔹 6. Multi-Language Support
 Supports:
 - English
 - Hindi
@@ -82,13 +75,13 @@ Supports:
 
 ---
 
-### 🔹 8. Dark / Light Mode Toggle
+### 🔹 7. Dark / Light Mode Toggle
 - User can switch between both  
 - Theme is saved in local preferences  
 
 ---
 
-### 🔹 9. PDF Confirmation Receipt
+### 🔹 8. PDF Confirmation Receipt
 After a successful disconnection request:
 - A downloadable PDF receipt is generated  
 - Includes request ID, service, provider, and verification status  
@@ -106,20 +99,6 @@ Mock API endpoints
 ```
 
 No real telecom/Broadband/DTH provider APIs are connected.
-
----
-
-## 📁 Project Structure (Example)
-
-```
-/mobile
-/broadband
-/dth
-/components
-/uploads
-/scripts
-README.md
-```
 
 ---
 
